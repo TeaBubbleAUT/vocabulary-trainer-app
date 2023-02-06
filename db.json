@@ -1,0 +1,54 @@
+{
+    "words": [
+        {
+            "id": 1,
+            "word": "Haus",
+            "article": "das"
+        },
+        {
+            "id": 2,
+            "word": "Hund",
+            "article": "der"
+        },
+        {
+            "id": 3,
+            "word": "Katze",
+            "article": "die"
+        },
+        {
+            "id": 4,
+            "word": "Wasser",
+            "article": "das"
+        },
+        {
+            "id": 5,
+            "word": "Frau",
+            "article": "die"
+        },
+        {
+            "id": 6,
+            "word": "Brot",
+            "article": "das"
+        },
+        {
+            "id": 7,
+            "word": "Kamm",
+            "article": "der"
+        },
+        {
+            "id": 8,
+            "word": "Nase",
+            "article": "die"
+        },
+        {
+            "id": 9,
+            "word": "Bett",
+            "article": "das"
+        },
+        {
+            "id": 10,
+            "word": "Kleidung",
+            "article": "die"
+        }
+    ]
+}
